@@ -5,28 +5,32 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="/images/cookie.png">
         <Title>Cookie</Title>
         <link rel="stylesheet" href="./stylesCookie.css">
     </head>
-
-    <body>
-        <!-- Simple pop-up dialog box, containing a form -->
-        <div id="favDialog" class="container">
-            
-            <span class="close-button topright">&times;</span>
-            <img src="../images/cookie.png" alt="">
-            <h1>Have a Cookie</h1>
-            <div class="container__text"> This website uses cookies to ensure you get the best experience on our website</div>
-            <!--  <form method="dialog"> -->
-            <div class="container__btn">
-                <a class="container__btn-yum" id="cancel" type="reset">Understood, Yum</a>
-                <a class="container__btn-more" type="submit">Learn more</a>
+    <!-- ................................................................................................... -->
+    <!-- .........................................BODY...................................................... -->
+    <!-- ................................................................................................... -->
+    <body >
+        <div class="modal" id="modal">
+            <!-- pop-up cookie container info-->
+            <div id="cookieContainer" class="container">
+                <span class="close-button" onclick="cerrar()">&times;</span>
+                <img src="../images/cookie.png" alt="">
+                <h1>Have a Cookie</h1>
+                <div class="container__text"> This website uses cookies to ensure you get the best experience on our website</div>
+                <!--  <a> buttons to accept and learm more-->
+                <div class="container__btn">
+                    <a class="container__btn-yum">Understood, Yum</a>
+                    <a href="https://www.aboutcookies.com/"  target=”_blank” class="container__btn-more" >Learn more</a>
+                </div>
             </div>
-            <!--   </form> -->
         </div>
-        <script>
-
-        </script>
+       
     </body>
-
+    <!-- ................................................................................................... -->
+    <!-- .........................................SCRIPT.................................................... -->
+    <!-- ................................................................................................... -->
+    <script src="./cookie.js"></script>
 </html>

@@ -3,15 +3,21 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color: #9f5932;
+}
+.mainContainer{
 
-body {
+}
+.modal {
     min-height:100vh;
     display: flex;
     justify-content: center;
-    background-color: rgb(234,234,234, .5);
+    background-color: rgb(234,234,234, .8);
     align-items:center;
     font-family: 'Roboto', sans-serif;
 }
+
 .container{
     position: relative;
     border: 1px solid black;
@@ -32,6 +38,11 @@ body {
     font-size: 42px;
     cursor: pointer;
 }
+
+.close-button:hover{
+    color: #dc9268;
+}
+
 .container > img {
     margin: 70px 0 20px 0;
     width: 150px;
@@ -57,18 +68,24 @@ body {
     align-items: center;
     margin-top: 25px;
 }
+
 .container__btn-yum{
     cursor: pointer;
-    background-color:#d67f4f;
+    background-color:#dc9268;
     color: #fff;
     padding: .7rem .8rem;
     font-size: 16px;
     margin-right: 15px;
     border-radius: 6px;
+    text-decoration: none;
+    font-weight: 700;
 }
 
+.container__btn-yum:hover{
+background-color: rgb(235, 155, 111);
+}
 
-.container__btn-more{
+.container__btn-more{ 
     cursor: pointer;
     border: none;
     background-color: transparent;
@@ -77,5 +94,8 @@ body {
     text-underline-offset: 1px;
     font-size: 16px;
     margin-left: 15px;
+}
 
+.container__btn-more:hover{
+    color: #9f5932;
 }
