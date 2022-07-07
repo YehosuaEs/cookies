@@ -14,17 +14,17 @@
     <!-- ................................................................................................... -->
     <body>
         <div class="mainContainer">HAZ CERRADO EL MODAL O PRESIONADO UNDERSTOOD</div>
-        <!-- .......THE MODAL........... -->
-        <div class="modal" id="modal">
-            <!-- modal pop-up cookie container info-->
-            <div id="cookieContainer" class="container">
-                <span class="close-button" onclick="cerrar()">&times;</span>
-                <img src="../images/cookie.png" alt="">
+        <!-- .......THE MODAL / POPUP........... -->
+        <div class="cookiePopup" id="cookiePopup">
+            <!-- ...modal pop-up cookie container info... -->
+            <div class="container">
+                <span class="close-button" onclick="closePopup()">&times;</span>
+                <img src="../images/cookie.png" alt="cookie">
                 <h1>Have a Cookie</h1>
                 <div class="container__text"> This website uses cookies to ensure you get the best experience on our website</div>
-                <!--  <a> buttons to accept and learm more-->
+                <!--  <a> buttons to accept and learm more -->
                 <div class="container__btn">
-                    <a class="container__btn-yum">Understood, Yum</a>
+                    <a class="container__btn-yum" id="acceptCookie" onclick="acceptCookieConsent()"> Understood, Yum </a>
                     <a href="https://www.aboutcookies.com/"  target=”_blank” class="container__btn-more" >Learn more</a>
                 </div>
             </div>
@@ -34,5 +34,6 @@
     <!-- ................................................................................................... -->
     <!-- .........................................SCRIPT.................................................... -->
     <!-- ................................................................................................... -->
-    <script src="./cookie.js"></script>
+    <script src="./cookie.js"> </script>
+
 </html>

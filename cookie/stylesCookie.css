@@ -15,7 +15,9 @@ body{
     padding: 2rem;
     border-radius: 10px;
 }
-.modal {
+
+/* ----- background of the cookie info when is display the card ----- */
+.cookiePopup{
     display: flex;
     justify-content: center;
     align-items:center;
