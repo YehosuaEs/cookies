@@ -15,33 +15,33 @@ It is a challenge created by the platform.
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#objectives">Objectives </a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#project-Screen">Project Screen</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#structure">Structure</a></li>
+    <li>
+        <a href="#installation-and-setup-instructions">Installation and Setup Instructions</a>
+         <ul>
+            <li><a href="#prerequisites">Prerequisites</a></li>
+            <li><a href="#installation">Installation</a></li>
+        </ul>
+    </li>
+    <li><a href="#stack">Stack</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 <!-- DESCRITION -->
-## Project Description
+## About The Project
 
 This Popup model with information about cookies allows you to view their use. It shows a manin background web site and the page with a modal that disables the rest of the page until cookies are not accepted or the modal is closed. It is a simple component that can be reused for any website.
 
 **Here are the description of the tasks to develop.**
 
-Objectives
+ ### Objectives
 - Layout the view.
 - When you click on "Understood", Yum must save the cookie and the component disappears, even if it is refreshed the browser it does not reappear.
 - By clicking on "Learn more" you can add the link you want for example: https://support.mozilla.org/es/kb/Delete%20cookies
