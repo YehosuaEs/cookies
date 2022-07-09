@@ -17,9 +17,16 @@ This Popup model with information about cookies allows you to view their use. It
 
 Objectives
 - Layout the view.
-- When you click on Understood, Yum must save the cookie and the component disappears, even if it is refreshed the browser it does not reappear.
-- By clicking on Learn more you can add the link you want for example: https://support.mozilla.org/es/kb/Delete%20cookies
+- When you click on "Understood", Yum must save the cookie and the component disappears, even if it is refreshed the browser it does not reappear.
+- By clicking on "Learn more" you can add the link you want for example: https://support.mozilla.org/es/kb/Delete%20cookies
 - Clicking on the cross makes the component disappear but refreshing it reappears.
+
+## Project Screen
+<p align="center">
+Here is a visual representation of how the project looks like.
+</p>
+
+
 
 <!-- USAGE -->
 ## Usage
@@ -69,13 +76,13 @@ cookie.html
 
 <div align="center">
   <a href="https://www.javascript.com/">
-    <img width="35" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png">
+    <img width="30" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png">
   </a> 
   <a href="https://www.javascript.com/](https://developer.mozilla.org/es/docs/Glossary/HTML5">
-    <img width="35" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png">
+    <img width="30" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png">
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img width="35" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> 
+    <img width="30" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> 
   </a>
 </div>
  
