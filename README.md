@@ -13,6 +13,7 @@ It is a challenge created by the platform.
   and <a href="https://www.barcelonactiva.cat/es/itacademy"> IT Academy Barcelona</a>
 </p>
 
+</br>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -40,13 +41,15 @@ It is a challenge created by the platform.
   </ol>
 </details>
 
+</br>
+
 <!-- DESCRITION -->
 ## About The Project
 
 This Popup model with information about cookies allows you to view their use. It shows a manin background web site and the page with a modal that disables the rest of the page until cookies are not accepted or the modal is closed. It is a simple component that can be reused for any website.
 
 <div align="center">
-  <img width="180" alt="PokeCard Styled Guided" src="https://user-images.githubusercontent.com/93733677/178119729-d404e655-1a14-415f-b347-18ce0ddd457d.png">
+  <img width="180" alt="Cookie example card" src="https://user-images.githubusercontent.com/93733677/178119729-d404e655-1a14-415f-b347-18ce0ddd457d.png">
 </div >
 
 **Here are the description of the tasks to develop.**
@@ -65,7 +68,7 @@ Here is a visual representation of how the project looks like.
 </p>
 
 <p align="center">
-  <img width="600" align="center" src="https://user-images.githubusercontent.com/93733677/178120012-6e4a97f8-b157-437d-bdd5-5470c70248a9.gif" alt="demo"/>
+  <img width="600" align="center" alt="project preview" src="https://user-images.githubusercontent.com/93733677/178120012-6e4a97f8-b157-437d-bdd5-5470c70248a9.gif"/>
 </p>
 
 
