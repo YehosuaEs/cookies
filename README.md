@@ -46,9 +46,10 @@ It is a challenge created by the platform.
 This Popup model with information about cookies allows you to view their use. It shows a manin background web site and the page with a modal that disables the rest of the page until cookies are not accepted or the modal is closed. It is a simple component that can be reused for any website.
 
 **Here are the description of the tasks to develop.**
-<p align="right>
-    <img width="421" alt="Popup cookie exmaple" src="https://user-images.githubusercontent.com/93733677/178119729-d404e655-1a14-415f-b347-18ce0ddd457d.png">
-</p>
+
+<div align="center">
+  <img width="180" alt="PokeCard Styled Guided" src="https://user-images.githubusercontent.com/93733677/178119729-d404e655-1a14-415f-b347-18ce0ddd457d.png">
+</div >
 
  ### Objectives
 - Layout the view proposed in the image above (colors and text styles can be changed).
