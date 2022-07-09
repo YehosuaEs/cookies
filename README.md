@@ -12,6 +12,15 @@ It is a challenge created by the platform.
 
 This Popup model with information about cookies allows you to view their use. It shows a manin background web site and the page with a modal that disables the rest of the page until cookies are not accepted or the modal is closed. It is a simple component that can be reused for any website.
 
+**Here are the description of the task to develop.**
+
+Objectives
+- Layout the view.
+
+- When you click on Understood, Yum must save the cookie and the component disappears, even if it is refreshed the browser it does not reappear.
+- By clicking on Learn more you can add the link you want for example: https://support.mozilla.org/es/kb/Delete%20cookies
+- Clicking on the cross makes the component disappear but refreshing it reappears.
+
 ## Usage
 - Clone the repositoy: ``git clone https://github.com/YehosuaEs/cookies.git``
 - Creating a fork of this repository.
