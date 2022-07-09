@@ -8,6 +8,32 @@ It is a challenge created by the platform.
   and <a href="https://www.barcelonactiva.cat/es/itacademy"> IT Academy Barcelona</a>
 </p>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 <!-- DESCRITION -->
 ## Project Description
 
@@ -21,18 +47,22 @@ Objectives
 - By clicking on "Learn more" you can add the link you want for example: https://support.mozilla.org/es/kb/Delete%20cookies
 - Clicking on the cross makes the component disappear but refreshing it reappears.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Project Screen
 <p align="center">
 Here is a visual representation of how the project looks like.
 </p>
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE -->
 ## Usage
 - Clone the repositoy: ``git clone https://github.com/YehosuaEs/cookies.git``
 - Creating a fork of this repository.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- STRUCTURE -->
 ## Structure
@@ -41,7 +71,8 @@ Here is a visual representation of how the project looks like.
 .
 |–– cookie                  # Components files 
 |–– images                  # Images files
-|–– README.md
+|–– LICENSE                 # License project
+|–– README.md               # Project description
 ````
 
 ### Cookie directory
@@ -53,6 +84,9 @@ Here is a visual representation of how the project looks like.
 |   |–– cookie.js           # Code with functions of the buttons and preserve the info into LocalStorage
 |   |–– stylesCookie.css    # Styles of the structure component
 ````
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- INSTALLATION AND SETUP -->
 
 ## Installation and Setup Instructions
@@ -69,6 +103,7 @@ Here is a visual representation of how the project looks like.
 cookie.html
 ```
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- STACK -->
 
@@ -76,16 +111,17 @@ cookie.html
 
 <div align="center">
   <a href="https://www.javascript.com/">
-    <img width="30" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png">
+    <img width="25" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png">
   </a> 
   <a href="https://www.javascript.com/](https://developer.mozilla.org/es/docs/Glossary/HTML5">
-    <img width="30" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png">
+    <img width="25" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png">
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img width="30" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> 
+    <img width="25" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> 
   </a>
 </div>
  
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
   
@@ -94,6 +130,7 @@ Copyright (c) 2022 Yehosuá Escobedo. Code released under the [MIT](https://gith
   </br>
   See `LICENSE` for more information.
   
+<p align="right">(<a href="#top">back to top</a>)</p>
  <!-- CONTACT -->
 
 ## Contact
@@ -101,3 +138,5 @@ Yehosuá Escobedo [Linkedin](https://www.linkedin.com/in/edgaryehosuaescobedo/)
 Email: yehosuaes@gmail.com 
 </br>
 Project Limk: [https://github.com/YehosuaEs/cookies](https://github.com/YehosuaEs/cookies)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
