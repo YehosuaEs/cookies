@@ -51,11 +51,16 @@ Objectives
 ## Installation and Setup Instructions
 
 <h3 style="display: inline-block"> Prerequisites </h3>
+
 - None just a browser to run the html file.
 
 <h3 style="display: inline-block"> Installation </h3>
-1.- Open the cookie folder 
-2.- Double click on the ```cookie.html```
+
+1. Open the cookie folder 
+2.  Double click on the 
+```
+cookie.html
+```
 
 
 <!-- STACK -->
